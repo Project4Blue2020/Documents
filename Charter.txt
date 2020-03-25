@@ -3,7 +3,7 @@ Team Charter (ENGG1100 P04 B)
 	1.1 Team Members
 		Name,Email,Mobile
 			Jake Arthur,jake.arthur@uqconnect.edu.au,0401707959
- 		Haemin Kim,haemin.kim@uqconnect.edu.au,0411840744
+ 			Haemin Kim,haemin.kim@uqconnect.edu.au,0411840744
 			Daisy Joslyn,d.joslyn@uqconnect.edu.au,0413943976
 			Andrew Clare,a.clare@uqconnect.edu.au,0467471878
 			Liam,l.birrell1@uqconnect.edu.au,0457088326
