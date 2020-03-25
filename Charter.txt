@@ -1,0 +1,78 @@
+Team Charter (ENGG1100 P04 B)
+1. THE TEAM
+	1.1 Team Members
+		Name,Email,Mobile
+			Jake Arthur,jake.arthur@uqconnect.edu.au,0401707959
+ 		Haemin Kim,haemin.kim@uqconnect.edu.au,0411840744
+			Daisy Joslyn,d.joslyn@uqconnect.edu.au,0413943976
+			Andrew Clare,a.clare@uqconnect.edu.au,0467471878
+			Liam,l.birrell1@uqconnect.edu.au,0457088326
+ 		Nick Cameron,n.cameron@uqconnect.edu.au,0481140013
+	1.2 Team Objectives
+		1.2.1 Grades
+			We are getting a 7 no questions asked
+		1.2.2 Outcomes
+			The outcomes of the project are to build a robot
+	1.3 Team Roles (www.123test.com/team-roles-test )
+		Name,Preferred Team Roles,Least Preferred Team Roles
+ 		Daisy,Driver,Chairperson
+ 		Andrew,Chairperson,Explorer 
+ 		Liam,Innovator,Chairperson
+			Jake,Completer/Team Leader,Expert
+ 		Haemin,Expert,Chairperson
+	 	Nick,Driver,Analyst
+	1.4 Strengths
+		Daisy - writing skills
+		Liam - new methods, ideas or products (google def of innovator) 
+		Haemin: Using 3D tool & basic programming
+		Andrew:CAD, Designing stuff
+		Nick - basic programming and writing
+		Jake: Management of people and completion
+	1.5 Team Roles
+			Analyst, team player, executive, explorer.
+2. TEAM DYNAMICS
+	2.1 Team Leader
+		Jake, as he has leadership experience
+	2.2 Chair for Meetings
+		Andrew will chair the meetings 
+	2.3 Minute Taker
+		The Team will rotate for the minute taker
+	2.4 Meeting Time, Location, and Length
+		TBA
+	2.5 Communication Methods
+		Facebook, Discord
+	2.6 File Sharing and Storage
+		Google Drive, Github to allow for version management
+	2.7 File Naming Convention
+		Put name and version (lastnameFirstname_date_Ver.x)
+		Branch the repo for changes and then copy final changes to Google document
+	2.8 Decision Making Procedure
+		Suggest ideas in video/audio chats and negotiate. Majority vote?
+	2.9 Poor Team Member Performance
+		Discussed amongst other team members
+	2.10 Conflict Resolution
+		As per 2.9
+3. THE PROJECT
+	3.1 Project Title
+		Minesweeper The Robot
+	3.2 Project Objectives
+		Specifics - Build a robot virtually 
+		Measure - Getting a 7
+		Achievable - Yes, provided access to CAD and other software
+		Related - This is the project
+		Timeframe - by end of semester
+	3.3 Project Outcomes
+		Virtually built robot
+		Final Project report
+		Video Presentation
+TIMETABLE
+	4.1 Team Member Availability
+		Liam 24/7
+		Daisy usually all the time - except for live zoom lessons
+		Jake all times except Friday 5-10pm Sat 5-10pm Sun 11am-4 pm
+		Nick N/A Mon 12-1 Tues 9-11 friday morning saturday morning
+		Haemin: All times except Mon 12-6pm, Wed 10-12am, Fri 12-4pm
+		Andrew: 
+	4.2 Project Deadlines
+		PSP: Monday Wk 6
+		Demo Day: Wk 13
