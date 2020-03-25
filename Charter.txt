@@ -18,7 +18,7 @@ Team Charter (ENGG1100 P04 B)
  		Daisy,Driver,Chairperson
  		Andrew,Chairperson,Explorer 
  		Liam,Innovator,Chairperson
-			Jake,Completer/Team Leader,Expert
+		Jake,Completer/Team Leader,Expert
  		Haemin,Expert,Chairperson
 	 	Nick,Driver,Analyst
 	1.4 Strengths
@@ -29,7 +29,7 @@ Team Charter (ENGG1100 P04 B)
 		Nick - basic programming and writing
 		Jake: Management of people and completion
 	1.5 Team Roles
-			Analyst, team player, executive, explorer.
+		Analyst, team player, executive, explorer.
 2. TEAM DYNAMICS
 	2.1 Team Leader
 		Jake, as he has leadership experience
